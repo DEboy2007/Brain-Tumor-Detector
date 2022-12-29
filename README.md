@@ -3,5 +3,5 @@ A project I made to get accustomed to computer vision and YOLOv5 with Roboflow. 
 
 Best weights: yolov5/runs/train/exp/weights/best.pt
 
-Dataset used: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+Dataset used: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection<br>
 Annotations done by me
