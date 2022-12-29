@@ -1,0 +1,12 @@
+names:
+- Tumor
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: brain-tumor-detector-0wv25
+  url: https://universe.roboflow.com/project/brain-tumor-detector-0wv25/dataset/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: /workspace/datasets/Brain-Tumor-Detector-1/train/images
+val: /workspace/datasets/Brain-Tumor-Detector-1/valid/images
