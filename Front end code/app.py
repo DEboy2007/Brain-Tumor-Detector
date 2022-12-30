@@ -6,7 +6,8 @@ import plotly.express as px
 
 st.title("Brain Tumor Detector")
 st.subheader("Paste the MRI scan image below to detect if there is a tumor or not")
-image = st.file_uploader("Upload MRI scan", type=["jpg"], accept_multiple_files=False)
+st.text("Github repository: https://github.com/DEboy2007/Brain-Tumor-Detector")
+image = st.file_uploader("Upload MRI scan", type=["jpg", "jpeg", "png", "webp"], accept_multiple_files=False)
 
 if image:
     image = Image.open(image)
