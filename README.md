@@ -7,3 +7,7 @@ Best weights: yolov5/runs/train/exp/weights/best.pt
 
 Dataset used: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection<br>
 Annotations done by me
+
+Example:
+![newplot](https://user-images.githubusercontent.com/66331423/210065849-2439d7a2-3766-4324-9491-0d97f1412d82.png)
+
