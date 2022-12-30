@@ -1,7 +1,7 @@
 # Brain-Tumor-Detector
-A project I made to get accustomed to computer vision, YOLOv5, Roboflow and huggingface spaces. This project detects possible tumors in MRI brain scans.
+## A project I made to get accustomed to computer vision, YOLOv5, Roboflow and huggingface spaces. This project detects possible tumors in MRI brain scans.
 
-<b>Frontend: https://huggingface.co/spaces/DEboy2007/Brain-Tumor-Detector</b>
+### <b>Frontend: https://huggingface.co/spaces/DEboy2007/Brain-Tumor-Detector</b>
 
 Best weights: yolov5/runs/train/exp/weights/best.pt
 
