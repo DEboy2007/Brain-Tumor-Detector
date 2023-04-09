@@ -1,7 +1,7 @@
 # Brain-Tumor-Detector
 ## A project I made to learn computer vision, YOLOv5, Roboflow and huggingface spaces. This project detects possible tumors in MRI brain scans.
 
-### <b>Frontend: https://huggingface.co/spaces/DEboy2007/Brain-Tumor-Detector</b>
+### <b>Frontend: https://deboy2007-brain-tumor-detector-front-end-codeapp-8ze6b4.streamlit.app/</b>
 
 Best weights: yolov5/runs/train/exp/weights/best.pt
 
