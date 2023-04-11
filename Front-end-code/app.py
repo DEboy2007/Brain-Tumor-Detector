@@ -22,6 +22,9 @@ if image:
 
     st.plotly_chart(fig)
 
+st.subheader("Example detection:")
+st.image("Front-end-code/newplot.png", use_column_width=True)
+
 st.subheader("Credits:")
 st.write("""Dataset used: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 Annotations done by me""")
